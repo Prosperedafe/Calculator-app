@@ -28,3 +28,8 @@ themeToggleBtn.onclick = () => {
   themeToggleBtn.classList.toggle("active");
   isDark = !isDark;
 };
+
+// #F49909
+// #9F9F9F
+// #313131
+// #A8A8A8
